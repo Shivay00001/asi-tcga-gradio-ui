@@ -30,3 +30,8 @@ Then open the Gradio URL (usually `http://127.0.0.1:7860`) in your browser.
 - `plotly`
 - `requests`
 - `beautifulsoup4`
+
+
+## Installation
+Follow standard installation steps for this language.
+
